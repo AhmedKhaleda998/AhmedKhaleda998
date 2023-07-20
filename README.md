@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
 <p align="center">
-<img src="[[https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)" height="240" width="370">
+<img src="https://i.gifer.com/3Eqa.gif" height="240" width="370">
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
