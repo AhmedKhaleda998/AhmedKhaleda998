@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
 <p align="center">
-<img src="https://i.gifer.com/3Eqa.gif" height="240" width="370">
+<img src="https://c4.wallpaperflare.com/wallpaper/893/106/386/cloud-icloud-binary-code-wallpaper-thumb.jpg" height="240" width="370">
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
