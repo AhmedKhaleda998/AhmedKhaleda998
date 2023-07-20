@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedKhaleda998](github.com/AhmedKhaleda998)
+- 👨‍💻 All of my projects are available at [AhmedKhaleda998](github.com/AhmedKhaleda998)
 
 - 💬 Ask me about **MEARN stack and related technologies**
 
