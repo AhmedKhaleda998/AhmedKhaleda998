@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
+<p align="center">
+<img src="[https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)" height="240" width="370">
+
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
 - 👨‍💻 All of my projects are available at [AhmedKhaleda998](github.com/AhmedKhaleda998)
