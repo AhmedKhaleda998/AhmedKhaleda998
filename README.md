@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4cjd0c241eTBlY3l0Mng1cnU4aG5oZHNmdzV0MjNkdm52NmNxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height="240" width="370">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4cjd0c241eTBlY3l0Mng1cnU4aG5oZHNmdzV0MjNkdm52NmNxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height="360" width="555">
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
