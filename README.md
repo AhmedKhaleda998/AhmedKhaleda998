@@ -42,7 +42,7 @@
 <a href="https://sinatrarb.com/" target="_blank"><img style="margin: 10px" src="https://sinatrarb.com/sinatra.github.com/images/logo.png" alt="Sinatra" height="40" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://mqtt.org/" target="_blank"><img style="margin: 10px" src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="MQTT" height="50" /></a>
+<a href="https://mqtt.org/" target="_blank"><img style="margin: 10px" src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="MQTT" height="20" /></a>
 </div>
 
 </td><td valign="top" width="33%">
